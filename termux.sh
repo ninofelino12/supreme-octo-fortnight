@@ -1,1 +1,1 @@
-ssh   @
+echo 'Odoo in termux installer'
